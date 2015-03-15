@@ -1,0 +1,23 @@
+Game Play Instructions:
+
+Keyboard Controls:
+
+1. Use Left and Right arrow keys to move striker
+2. Use up and down arrow keys to change striking power 
+3. Use 'a' and 'c' buttons to rotate direction arrow
+4. Hit Spacebar to strike
+5. Hit 'r' to restart the game
+6. Hit 'Esc' to quit the game
+
+Mouse Controls:
+
+1. Drag striker using Right Mouse Button
+2. Give direction to 'direction Arrow' by clicking anywhere using Left Mouse Button
+
+Gameplay:
+
+1. Objective is to score all white coins and Queen as quickly as possible
+2. Scoring Criteria:
+	a) Initial score is 50. It decreases by 1 each second.
+	b) White coin is worth 10 points and Queen is worth 50 points.
+	c) Black coin and Striker pocketing penalty is -5 points for each.   
