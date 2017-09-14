@@ -1,13 +1,13 @@
-#carrom
+# carrom
 
 This is a 2-D board Carrom game developed using OpenGL2 developed by me. Hope you like it :D !!
 
-##How to Start
+## How to Start
 
 * `cd carrom`changes the current directory to this one.
 * `./carrom` starts the game
 
-##Keyboard Controls
+## Keyboard Controls
 
 1. Use Left and Right arrow keys to move striker
 2. Use up and down arrow keys to change striking power 
@@ -16,12 +16,12 @@ This is a 2-D board Carrom game developed using OpenGL2 developed by me. Hope yo
 5. Hit **'r'** to **restart** the game
 6. Hit **'Esc'** to **quit** the game
 
-##Mouse Controls
+## Mouse Controls
 
 1. Drag striker using **RMB**
 2. Give direction to 'direction Arrow' by clicking anywhere using **LMB**
 
-##Gameplay
+## Gameplay
 
 1. Objective is to score all White coins and Queen as quickly as possible
 2. Scoring Criteria:
