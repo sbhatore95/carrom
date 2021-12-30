@@ -1,6 +1,6 @@
 # carrom
 
-This is a 2-D board Carrom game developed using OpenGL2 developed by me. Hope you like it :D !!
+This is a 2-D board Carrom game developed using OpenGL2. Hope you like it :D !!
 
 ## How to Start
 
@@ -21,10 +21,13 @@ This is a 2-D board Carrom game developed using OpenGL2 developed by me. Hope yo
 1. Drag striker using **RMB**
 2. Give direction to 'direction Arrow' by clicking anywhere using **LMB**
 
-## Gameplay
+## Gameplay![Screenshot from 2021-12-30 10-56-11](https://user-images.githubusercontent.com/7404597/147724092-1e7e8ab2-a67e-4851-9591-072f34387db1.png)
+
 
 1. Objective is to score all White coins and Queen as quickly as possible
 2. Scoring Criteria:
 	* Initial score is **50**. It decreases by **1** each second.
 	* **White coin** is worth **10** points and **Queen** is worth **50** points.
-	* **Black coin** and **Striker** pocketing penalty is **-5** points for each.   
+	* **Black coin** and **Striker** pocketing penalty is **-5** points for each.
+
+  
